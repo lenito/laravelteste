@@ -2,6 +2,6 @@
 
 ## GIT
 
-- git ass .
+- git add .
 - git commit -m "msg do envio"
 - git push
