@@ -5,6 +5,7 @@ namespace App\Models;
 use Illuminate\Database\Eloquent\Factories\HasFactory;
 use Illuminate\Database\Eloquent\Model;
 
+
 /*
 extend adiciona todo conteúdo desenvolvido de 
 Model para a classe q a cita
@@ -34,4 +35,6 @@ class Produto extends Model
         'preco',
         'descricao', 
     ];
+
+
 }
